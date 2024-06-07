@@ -1,30 +1,29 @@
+# Olá, eu sou [NETZACH] 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Bem+vindo+;Me+encontre+no+telegram)](https://git.io/typing-svg)
+## 🌐 Sobre Mim
+Estudante de cibersegurança com foco em Parrot Linux, Ubuntu e Android. Tenho experiência e interesse nas seguintes linguagens de programação e tecnologias:
+- Python 3
+- Shell Script
+- JavaScript
+- CSS
+- HTML
+- PHP
+- JSON
 
-# Olá, me chamo Apolo! 
+## 🖥️ Tecnologias Utilizadas
+![Parrot Security OS](https://www.parrotsec.org/images/parrot-logo.png) 
+![Ubuntu](https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png) 
+![Android](https://upload.wikimedia.org/wikipedia/commons/3/3e/Android_logo_2019.png)
 
-## Bem vindo ao meu perfil GitHub 👋
+## 📚 Linguagens de Programação
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
-# Conhecimentos Em Linux :penguin:
-
-• Kali Linux
-
-• Ubuntu 
-
-• termux
-
-## Contatos:
-
-<div>
-<a href="https://www.youtube.com/ap0l0777" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/ciberfantasma" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.twitch.tv/ap0l0777" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-</div>
-
-# Estatísticas 
-
-<div>
-<a href="https://github.com/ap0l0777">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?ap0l0777&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ap0l0777&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+## 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@example.com)
