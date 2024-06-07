@@ -1,4 +1,4 @@
-# Olá, eu sou [NETZACH] 👋
+# Olá, eu sou ![NETZACH]https://img.shields.io/badge/Seu_Nome-39FF14?style=for-the-badge&logo=none&logoColor=39FF14&labelColor=black 👋
 
 ## 🌐 Sobre Mim
 Estudante de cibersegurança com foco em Parrot Linux, Ubuntu e Android. Tenho experiência e interesse nas seguintes linguagens de programação e tecnologias:
