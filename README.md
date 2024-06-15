@@ -14,6 +14,7 @@ Estudante de cibersegurança com foco em Parrot Linux, Ubuntu e Android. Tenho e
 ## 🖥️ Tecnologias Utilizadas
 - Ubuntu
 - Kali Linux
+- Parrot Linux
 - Termux
 - Windows
 - Android
