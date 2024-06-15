@@ -12,9 +12,11 @@ Estudante de cibersegurança com foco em Parrot Linux, Ubuntu e Android. Tenho e
 - JSON
 
 ## 🖥️ Tecnologias Utilizadas
-![Parrot Security OS](https://camo.githubusercontent.com/2320afcc8583fc4824feed04915f748c5fe6326b89d8b866405b9a571f7e0777/68747470733a2f2f6769746c61622e636f6d2f706172726f747365632f70726f6a6563742f67726170686963732f2d2f7261772f643139616338613131323932313336636461346231646638306132626431353666373638666564382f6c6f676f2f706172726f742d6c6f676f2e737667) 
-![Ubuntu](https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png) 
-![Android](https://upload.wikimedia.org/wikipedia/commons/3/3e/Android_logo_2019.png)
+- Ubuntu
+- Kali Linux
+- Termux
+- Windows
+- Android
 
 ## 📚 Linguagens de Programação
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -26,5 +28,5 @@ Estudante de cibersegurança com foco em Parrot Linux, Ubuntu e Android. Tenho e
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
 ## 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ap0l0777)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deiximeaquiporfavor@gmail.com)
